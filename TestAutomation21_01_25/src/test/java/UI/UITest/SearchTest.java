@@ -1,4 +1,3 @@
-// Updated SearchTest Class
 package UI.UITest;
 
 import org.testng.Assert;

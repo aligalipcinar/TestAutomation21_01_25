@@ -1,4 +1,3 @@
-// Updated BaseObject Class
 package UI.UIObject;
 
 import io.appium.java_client.AppiumDriver;

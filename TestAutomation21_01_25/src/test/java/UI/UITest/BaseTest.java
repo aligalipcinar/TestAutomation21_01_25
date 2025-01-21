@@ -1,4 +1,3 @@
-// Updated BaseTest Class
 package UI.UITest;
 
 import UI.UIObject.BaseObject;

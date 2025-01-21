@@ -1,4 +1,3 @@
-// Updated ApiTest Class
 package API.APITest;
 
 import API.APIObject.ApiObject;

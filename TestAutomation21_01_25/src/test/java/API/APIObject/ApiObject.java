@@ -1,4 +1,3 @@
-// Updated ApiObject Class
 package API.APIObject;
 
 import io.restassured.RestAssured;
